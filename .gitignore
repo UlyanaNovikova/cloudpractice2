@@ -24,6 +24,12 @@ coverage
 *.lcov
 
 # nyc test coverage
+
+todo.db
+node_modules/
+*.log
+*.db
+
 .nyc_output
 
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
